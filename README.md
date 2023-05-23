@@ -1,6 +1,7 @@
 # *TreeTiP*: A *Tree* modeling method based on point clouds with the idea of the simulation of *T*ransport *i*n *P*lants
 
 This name contains another meaning: The method always takes into account the position of the ***Tree TiP***(*i.e.* treetop), which makes the produced tree model more real.
+
 **Note:** There is a common misspelling in the name of the skeleton extraction algorithm in my proposed papers and the correct should be "the Incomplete Simulation of the Tree Water and Nutrient Transport" and "ISTWNT" in short.
 
 ## 1 Introduction
