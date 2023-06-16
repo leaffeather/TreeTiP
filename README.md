@@ -4,7 +4,7 @@ This name contains another meaning: The method always takes into account the pos
 
 **Note:** There is a common misspelling in the name of the skeleton extraction algorithm in my proposed papers and the correct should be "the Incomplete Simulation of the Tree Water and Nutrient Transport" and "ISTWNT" in short.
 
-![TreeTiP](https://github.com/leaffeather/images/blob/main/TreeTiP.jpg?raw=true#pic_center)
+![TreeTiP](https://github.com/leaffeather/images/blob/main/TreeTiP.jpg?raw=true)
 
 ## 1 Introduction
 This work contains four parts:
